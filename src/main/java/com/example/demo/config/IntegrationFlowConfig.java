@@ -12,7 +12,7 @@ import java.util.concurrent.ForkJoinPool;
 
 @Configuration
 @IntegrationComponentScan
-public class NotifyIntegrationFlowConfig {
+public class IntegrationFlowConfig {
 
     public static final String ROUTING_EXAMPLE_2_CHANNEL_NAME = "routingExample2ChannelName";
 

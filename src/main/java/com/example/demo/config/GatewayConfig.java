@@ -5,7 +5,7 @@ import org.springframework.integration.annotation.MessagingGateway;
 
 import java.util.Collection;
 
-import static com.example.demo.config.NotifyIntegrationFlowConfig.ROUTING_EXAMPLE_2_CHANNEL_NAME;
+import static com.example.demo.config.IntegrationFlowConfig.ROUTING_EXAMPLE_2_CHANNEL_NAME;
 
 @MessagingGateway
 public interface GatewayConfig {
